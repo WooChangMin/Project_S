@@ -1,6 +1,6 @@
 # Project_S
-ProjectS
 
+***
 Team : 
 정보배 : PD / UI개발 및 포톤서버 판정 및 RPC
 안다비 : 플레이어 움직임 전반 및 총알 / 피격
